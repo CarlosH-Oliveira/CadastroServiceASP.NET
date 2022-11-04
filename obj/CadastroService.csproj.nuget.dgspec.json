@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Carlos Henrique\\source\\repos\\CadastroService\\CadastroService.csproj": {}
+    "c:\\Users\\Carlos Henrique\\source\\repos\\CadastroService\\CadastroService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Carlos Henrique\\source\\repos\\CadastroService\\CadastroService.csproj": {
+    "c:\\Users\\Carlos Henrique\\source\\repos\\CadastroService\\CadastroService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Carlos Henrique\\source\\repos\\CadastroService\\CadastroService.csproj",
+        "projectUniqueName": "c:\\Users\\Carlos Henrique\\source\\repos\\CadastroService\\CadastroService.csproj",
         "projectName": "CadastroService",
-        "projectPath": "C:\\Users\\Carlos Henrique\\source\\repos\\CadastroService\\CadastroService.csproj",
+        "projectPath": "c:\\Users\\Carlos Henrique\\source\\repos\\CadastroService\\CadastroService.csproj",
         "packagesPath": "C:\\Users\\Carlos Henrique\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Carlos Henrique\\source\\repos\\CadastroService\\obj\\",
+        "outputPath": "c:\\Users\\Carlos Henrique\\source\\repos\\CadastroService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Carlos Henrique\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lQOtGW1HYglTUQwFWhgJV3NX9Op4ZrAv0zBOzVNBSAN7RMZOECBIIKIkxZQ3FgSDpeoad1i3me+0hQ8KD92yUA==",
+  "dgSpecHash": "2Jx88047eyc8fe5SXqC4B7E9u155vzoJQcQhjOzx4ydWvjNPug9Je/SwFwRn+/4D7Fa2CwkUl3xpi2zjIiDQCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Carlos Henrique\\source\\repos\\CadastroService\\CadastroService.csproj",
+  "projectFilePath": "c:\\Users\\Carlos Henrique\\source\\repos\\CadastroService\\CadastroService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Carlos Henrique\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Carlos Henrique\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

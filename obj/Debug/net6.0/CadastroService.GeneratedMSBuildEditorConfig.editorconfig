@@ -8,33 +8,33 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CadastroService
 build_property.RootNamespace = CadastroService
-build_property.ProjectDir = C:\Users\Carlos Henrique\source\repos\CadastroService\
+build_property.ProjectDir = c:\Users\Carlos Henrique\source\repos\CadastroService\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Carlos Henrique\source\repos\CadastroService
+build_property.MSBuildProjectDirectory = c:\Users\Carlos Henrique\source\repos\CadastroService
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Carlos Henrique/source/repos/CadastroService/Views/Clientes/Create.cshtml]
+[c:/Users/Carlos Henrique/source/repos/CadastroService/Views/Clientes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Carlos Henrique/source/repos/CadastroService/Views/Clientes/Delete.cshtml]
+[c:/Users/Carlos Henrique/source/repos/CadastroService/Views/Clientes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Carlos Henrique/source/repos/CadastroService/Views/Clientes/Details.cshtml]
+[c:/Users/Carlos Henrique/source/repos/CadastroService/Views/Clientes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Carlos Henrique/source/repos/CadastroService/Views/Clientes/Edit.cshtml]
+[c:/Users/Carlos Henrique/source/repos/CadastroService/Views/Clientes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Carlos Henrique/source/repos/CadastroService/Views/Clientes/Index.cshtml]
+[c:/Users/Carlos Henrique/source/repos/CadastroService/Views/Clientes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Carlos Henrique/source/repos/CadastroService/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/Carlos Henrique/source/repos/CadastroService/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
